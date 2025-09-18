@@ -38,6 +38,17 @@ I wish this could be done for all cemeteries, but that would be a near impossibl
 
 I have seen the growth in popularity of the public cleaning old gravestones, and while I'm sure most of the time they do get permission to do so, it does worry me. I feel that it is more for content and money than it is for actually doing a good deed. Cemeteries have also become more popular places in recent years, with aesthetics like cemeterycore attracting people. This isn't necessarily wrong, but I think it in many ways disrespects the dead buried there, especially the less someone knows about a certain cemetery.
 
+"Archaeologists, as collectors and counters of things, have a bias
+toward thinking that more is better—additional data, higher
+resolution, greater number of insights—while making the most out
+of limited opportunities" Klehm C. The Use and Challenges of Spatial Data in Archaeology. Advances in Archaeological Practice. 2023;11(1):105. doi:10.1017/aap.2022.38
+
+I've felt this all the time in archaeology. This is a very scientific view, the more data the better. But that leaves out the stories that archaeology can tell...
+
+I think that digital archaeology is the best way archaeology can be explained to the public. In Greece there are already some apps specifically designed for certain museums which gives fuller context to artefacts (such as at the museum of Sami and Vergina). There are endless possibilities when technology is involved, but has to be done correctly in order to make a lasting impact.
+
+
+
 
 
 
