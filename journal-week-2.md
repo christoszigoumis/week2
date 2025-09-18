@@ -22,3 +22,22 @@ There is also privilege when considering socioeconomics; that we are lucky to be
 Also the public is less likely to understand advanced digital methods being applied in archaeology, like certain ArcGIS feautres. So maybe we also owe it to the public to explain what is actually being done.
 
 I hadn't at all considered ethics in digital archaeology, probably because, like everything digital, its not as intuitive as the physical world and physical archaeology (which I wouldn't consider "real" archaeology anymore, both digital and physical archaeology are real). Archaeological databases online do pose an inherent risk of being comprised through hacking, which could become an issue in the future, although I don't think many hackers would have a clear rationale for hacking archaeological databases. But if these databases are being used to store sensitive information, like human remains, and they do get compromised, this would definitely pose an ethical concern.
+
+
+"Cemeteries are a delicate balance between public and private;
+funerary monuments in particular are at once motivated by public
+retrospection and private grief and emotion" Cook, Katherine. 2018 Open Data as Public Archaeology: The Monumental Archive Project. AP: Online Journal of Public Archaeology 3: 177-194. 178.
+
+Although modern grave sties do draw stronger emotions out of people, especially those who have relatives buried there. The ethics of conducting work at grave sites becomes more challenging the more modern said site is. The Keramicus in Athens is well over 2500 years old, and the remains there are treated much more archaeologically and historically and less emphathetically.
+
+"To do so, the project set out to develop a web-based interface
+(Figure 2) structured around an open database of curated3
+collections" Cook, Katherine. 2018 Open Data as Public Archaeology: The Monumental Archive Project. AP: Online Journal of Public Archaeology 3: 177-194. 181.
+
+I wish this could be done for all cemeteries, but that would be a near impossible task unless many dollars and people were allocated to it.
+
+I have seen the growth in popularity of the public cleaning old gravestones, and while I'm sure most of the time they do get permission to do so, it does worry me. I feel that it is more for content and money than it is for actually doing a good deed. Cemeteries have also become more popular places in recent years, with aesthetics like cemeterycore attracting people. This isn't necessarily wrong, but I think it in many ways disrespects the dead buried there, especially the less someone knows about a certain cemetery.
+
+
+
+
